@@ -1,0 +1,30 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "This restaurant app allows users to submit a burger and then devour it.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayna-v/burger.git"
+  },
+  "keywords": [
+    "burger",
+    "devour",
+    "'Eat-Da-Burger'",
+    "mySQL"
+  ],
+  "author": "Rayna Veuleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayna-v/burger/issues"
+  },
+  "homepage": "https://github.com/rayna-v/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
